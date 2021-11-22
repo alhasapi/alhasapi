@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alhasapi
 - 👀 I’m interested in Type Theory, Proof Theory and PL
-- 🌱 I’m currently learning Rust and Coq
+- 🌱 I’m currently learning Rust and Agda
 - 💞️ I’m looking to collaborate on Rust, Python ...
 - 📫 How to reach me ...
 
